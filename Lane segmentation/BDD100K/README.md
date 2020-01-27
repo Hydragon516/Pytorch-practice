@@ -1,4 +1,7 @@
-# CT Lung segmentation
+# Lane segmentation
 
 ## Dataset
-Finding and Measuring Lungs in CT Data https://www.kaggle.com/kmader/finding-lungs-in-ct-data
+Berkeley DeepDrive 100k dataset https://bdd-data.berkeley.edu/
+
+## Model
+Implement simple lane division using FCN(Fully Convolutional Network). The FCN model referred to "https://github.com/mvirgo/MLND-Capstone".
