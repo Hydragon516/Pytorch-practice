@@ -1,7 +1,5 @@
-# Lane segmentation
+# Malaria classification
 
 ## Dataset
-Berkeley DeepDrive 100k dataset https://bdd-data.berkeley.edu/
-
-## Model
-Implement simple lane division using FCN(Fully Convolutional Network). The FCN model referred to "https://github.com/mvirgo/MLND-Capstone"
+Malaria Cell Images Dataset
+https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
