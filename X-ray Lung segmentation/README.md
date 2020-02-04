@@ -1,4 +1,4 @@
-# CT Lung segmentation
+# X-ray Lung Segmentation
 
 ## Dataset
-Finding and Measuring Lungs in CT Data https://www.kaggle.com/kmader/finding-lungs-in-ct-data
+https://www.kaggle.com/nikhilpandey360/chest-xray-masks-and-labels
